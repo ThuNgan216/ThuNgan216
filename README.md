@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=ThuNgan216&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ThuNgan216" />
   </a>
   <a href="https://github.com/ThuNgan216?tab=followers">
-    <img src="https://img.shields.io/github/followers/ThuNgan?style=for-the-badge&logo=github&label=Followers" alt="followers" />
+    <img src="https://img.shields.io/github/followers/ThuNgan216?style=for-the-badge&logo=github&label=Followers" alt="followers" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-1f6feb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge" />
@@ -79,7 +79,7 @@ My goal is not only to develop software that works, but also to deliver solution
 
 ## 📌 Highlight Projects
 
-### 🎬 [CineHub] **colab with BaoAnh109** (https://github.com/BaoAnh109/CineHub)
+### 🎬 [CineHub](https://github.com/BaoAnh109/CineHub)  **colab with BaoAnh109** 
 A cinema booking web project developed to simulate a modern ticket reservation experience, covering core user flows such as movie browsing, showtime selection, seat booking, combo selection, authentication, profile management, and ticket tracking.
 
 **Key Highlights:**
