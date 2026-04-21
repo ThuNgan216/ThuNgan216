@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=ThuNgan216&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ThuNgan216" />
   </a>
   <a href="https://github.com/ThuNgan216?tab=followers">
-    <img src="https://img.shields.io/github/followers/BaoAnh109?style=for-the-badge&logo=github&label=Followers" alt="followers" />
+    <img src="https://img.shields.io/github/followers/ThuNgan?style=for-the-badge&logo=github&label=Followers" alt="followers" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-1f6feb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge" />
@@ -113,7 +113,7 @@ A cinema booking web project developed to simulate a modern ticket reservation e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaoAnh109&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&v=10"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThuNgan216&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&v=10"
   height="300"/>
 </p>
 
