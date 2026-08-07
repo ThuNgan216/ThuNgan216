@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" />
 </p>
 
-<h3 align="center">Aspiring Software Engineer | Second-Year IT Student | Passionate about Building Real-World Solutions</h3>
+<h3 align="center">Aspiring Software Engineer | Third-Year IT Student | Passionate about Building Real-World Solutions</h3>
 
 <p align="center">
   <a href="https://github.com/ThuNgan216">
@@ -103,7 +103,7 @@ A cinema booking web project developed to simulate a modern ticket reservation e
 
 ## 📊 GitHub Stats 
 
-<p align="center">
+<!-- <p align="center">
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=ThuNgan216&show_icons=true&theme=tokyonight&hide_border=true"
@@ -112,7 +112,7 @@ A cinema booking web project developed to simulate a modern ticket reservation e
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuNgan216&layout=compact&theme=tokyonight&hide_border=true"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ThuNgan216&theme=tokyonight&hide_border=true" />
