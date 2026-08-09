@@ -156,6 +156,66 @@ A machine learning project for **customer segmentation using K-Means clustering*
 * `Machine Learning`
 
 > Through this project, I strengthened my understanding of unsupervised machine learning, particularly data preprocessing, feature scaling, K-Means clustering, cluster evaluation, and customer segmentation.
+---
+### 🤖 [AI-DL-NhanDienLogo](https://github.com/ThuNgan216/NhanDienLogo)  🚧 **Status: In Progress** 
+
+A machine learning project for **customer segmentation using K-Means clustering**, developed to analyze mall customer data and identify meaningful customer groups based on demographic and spending behavior.
+
+**Key Highlights:**
+
+* Performed data exploration and preprocessing on the `Mall Customers` dataset
+* Analyzed customer attributes including **Age, Annual Income, and Spending Score**
+* Standardized input features using `StandardScaler`
+* Applied **K-Means clustering** to segment customers into different groups
+* Tested multiple cluster sizes from **K = 2 to K = 10**
+* Evaluated clustering quality using **Inertia** and **Silhouette Score**
+* Applied the **Elbow Method** to support selection of an appropriate number of clusters
+* Visualized customer data and clustering evaluation results using charts
+
+**Tech Stack:**
+
+* `Python`
+* `Pandas`
+* `Scikit-learn`
+* `Matplotlib`
+* `Seaborn`
+* `K-Means Clustering`
+* `StandardScaler`
+* `Machine Learning`
+
+> Through this project, I strengthened my understanding of unsupervised machine learning, particularly data preprocessing, feature scaling, K-Means clustering, cluster evaluation, and customer segmentation.
+---
+### 🤖 [AI-DL-NhanDienLogo](https://github.com/ThuNgan216/NhanDienLogo) 🚧 **Status: In Progress**
+
+A deep learning project focused on **brand logo detection and recognition using object detection**, developed to identify and localize brand logos in images using the YOLO architecture.
+
+**Key Highlights:**
+
+* Working with the **FlickrLogos-27** dataset for brand logo detection
+* Built a data preprocessing pipeline to convert original annotations into the **YOLO object detection format**
+* Converted bounding boxes from `(x_min, y_min, x_max, y_max)` coordinates to normalized YOLO coordinates
+* Automatically generated consistent class IDs for different logo brands
+* Split image data into **training and validation sets** while preserving class distribution
+* Generated YOLO dataset structures including `images/`, `labels/`, `data.yaml`, and `classes.txt`
+* Implemented validation checks for annotations, bounding boxes, duplicate labels, and dataset integrity
+* Experimented with **YOLOv8** inference for image object detection
+* Preparing the dataset and training pipeline for custom brand logo detection
+
+**Tech Stack:**
+
+* `Python`
+* `YOLOv8`
+* `Ultralytics`
+* `PyTorch`
+* `OpenCV`
+* `Pillow`
+* `NumPy`
+* `PyYAML`
+* `Deep Learning`
+* `Object Detection`
+
+> Through this ongoing project, I am strengthening my understanding of deep learning and computer vision, particularly object detection, dataset preprocessing, bounding box annotation, YOLO data preparation, and model inference.
+
 
 
 ## 📊 GitHub Stats 
