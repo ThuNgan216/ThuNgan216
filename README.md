@@ -72,7 +72,7 @@ My goal is not only to develop software that works, but also to deliver solution
 
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,figma" />
 </p>
 
 ---
