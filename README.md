@@ -79,6 +79,34 @@ My goal is not only to develop software that works, but also to deliver solution
 
 ## 📌 Highlight Projects
 
+### 🎬 [Popcorn Cinema](https://github.com/ThuNgan216/Popcorn-Cinema)
+
+A **multi-page cinema booking website** developed to simulate the core experience of an online movie ticket booking platform, including movie browsing, cinema and showtime exploration, interactive seat selection, promotions, and user login/register interfaces.
+
+**Key Highlights:**
+
+* Built multiple connected pages for movies, cinemas, showtimes, promotions, booking, and customer information
+* Implemented an interactive **seat selection system** using JavaScript
+* Supported different seat categories, including **Standard, VIP, and Sweetbox**, with different ticket prices
+* Dynamically calculated selected seats, seat quantity, remaining seats, and total booking price
+* Designed dedicated **login and registration interfaces** with interactive tab switching
+* Added supporting pages such as booking guides, FAQs, cinema regulations, privacy policy, and terms of service
+* Organized the project into separate `HTML`, `CSS`, `JavaScript`, and image directories for clearer front-end structure
+* Used **Bootstrap** alongside custom CSS to build responsive navigation and interface components
+
+**Tech Stack:**
+
+* `HTML5`
+* `CSS3`
+* `JavaScript`
+* `Bootstrap`
+* `Multi-Page Website`
+* `Responsive Web Design`
+
+> Through this project, I strengthened my practical front-end development skills, particularly in building multi-page websites, handling user interactions with JavaScript, designing booking workflows, and organizing web project structures.
+
+
+---
 ### 🎬 [CineHub](https://github.com/BaoAnh109/CineHub)  **colab with BaoAnh109** 
 A cinema booking web project developed to simulate a modern ticket reservation experience, covering core user flows such as movie browsing, showtime selection, seat booking, combo selection, authentication, profile management, and ticket tracking.
 
@@ -100,6 +128,35 @@ A cinema booking web project developed to simulate a modern ticket reservation e
 > Through this project, I enhanced my front-end engineering mindset, especially in organizing code, designing user flows, and building maintainable web interfaces for practical use cases.
 
 ---
+
+### 🤖 [AI-ML-CustomerGroup](https://github.com/ThuNgan216/ML_CustomerGroup)  🚧 **Status: In Progress** 
+
+A machine learning project for **customer segmentation using K-Means clustering**, developed to analyze mall customer data and identify meaningful customer groups based on demographic and spending behavior.
+
+**Key Highlights:**
+
+* Performed data exploration and preprocessing on the `Mall Customers` dataset
+* Analyzed customer attributes including **Age, Annual Income, and Spending Score**
+* Standardized input features using `StandardScaler`
+* Applied **K-Means clustering** to segment customers into different groups
+* Tested multiple cluster sizes from **K = 2 to K = 10**
+* Evaluated clustering quality using **Inertia** and **Silhouette Score**
+* Applied the **Elbow Method** to support selection of an appropriate number of clusters
+* Visualized customer data and clustering evaluation results using charts
+
+**Tech Stack:**
+
+* `Python`
+* `Pandas`
+* `Scikit-learn`
+* `Matplotlib`
+* `Seaborn`
+* `K-Means Clustering`
+* `StandardScaler`
+* `Machine Learning`
+
+> Through this project, I strengthened my understanding of unsupervised machine learning, particularly data preprocessing, feature scaling, K-Means clustering, cluster evaluation, and customer segmentation.
+
 
 ## 📊 GitHub Stats 
 
