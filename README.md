@@ -129,34 +129,6 @@ A cinema booking web project developed to simulate a modern ticket reservation e
 
 ---
 
-### 🤖 [AI-ML-CustomerGroup](https://github.com/ThuNgan216/ML_CustomerGroup)  🚧 **Status: In Progress** 
-
-A machine learning project for **customer segmentation using K-Means clustering**, developed to analyze mall customer data and identify meaningful customer groups based on demographic and spending behavior.
-
-**Key Highlights:**
-
-* Performed data exploration and preprocessing on the `Mall Customers` dataset
-* Analyzed customer attributes including **Age, Annual Income, and Spending Score**
-* Standardized input features using `StandardScaler`
-* Applied **K-Means clustering** to segment customers into different groups
-* Tested multiple cluster sizes from **K = 2 to K = 10**
-* Evaluated clustering quality using **Inertia** and **Silhouette Score**
-* Applied the **Elbow Method** to support selection of an appropriate number of clusters
-* Visualized customer data and clustering evaluation results using charts
-
-**Tech Stack:**
-
-* `Python`
-* `Pandas`
-* `Scikit-learn`
-* `Matplotlib`
-* `Seaborn`
-* `K-Means Clustering`
-* `StandardScaler`
-* `Machine Learning`
-
-> Through this project, I strengthened my understanding of unsupervised machine learning, particularly data preprocessing, feature scaling, K-Means clustering, cluster evaluation, and customer segmentation.
----
 ### 🤖 [AI-DL-NhanDienLogo](https://github.com/ThuNgan216/NhanDienLogo) 🚧 **Status: In Progress**
 
 A deep learning project focused on **brand logo detection and recognition using object detection**, developed to identify and localize brand logos in images using the YOLO architecture.
